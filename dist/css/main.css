@@ -46,6 +46,8 @@
     transition: all 1s ease-out; }
     .menu-nav.show {
       transform: translate3d(0, 0, 0); }
+  .menu-branding {
+    background: #444; }
 
 * {
   box-sizing: border-box; }
