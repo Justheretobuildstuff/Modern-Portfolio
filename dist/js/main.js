@@ -32,3 +32,13 @@ function toggleMenu() {
         showMenu = false;
     }
 }
+
+// Bug To-do
+
+
+// For mobile only
+// Centering issue for last name on index page
+// Centering issue for "About" on about me page
+// Centering issue for "contact" on contact me page
+// Email text runs off the sides of the page / box is too big
+// Entire contact me page is not centered
